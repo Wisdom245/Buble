@@ -1,3 +1,2 @@
 # Screen pet
-shoot the bubbles
-view project with this link https://tega-damilare.github.io/Buble/
+view project with this link https://Wisdom245.github.io/Screen-pet/
